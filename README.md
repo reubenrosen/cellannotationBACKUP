@@ -115,7 +115,7 @@ For network access, replace 127.0.0.1 with the host machine's IP.
 
 **Directory Structure Example**
 
-![Screenshot](https://camo.githubusercontent.com/804f51b9960a47677c5fbb0f0a504e35b0f85b6118ac9c7ef096837383f689f4/68747470733a2f2f692e6962622e636f2f33794d66533079462f696d6167652e706e67)
+![Screenshot](screenshots/image2.png)
 
 ## Usage
 
